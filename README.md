@@ -1,10 +1,10 @@
 ### Welcome to my Github pages:
 
 - See my CV:
-[Liping's CV](https://lime5005.github.io/lime.github.com/MySite/)
+[Liping's CV](https://lime5005.github.io/lime5005.github.com/MySite/)
 
 - Quote Generator using Fetch API:
-[Re-twitter or see new quote](https://lime5005.github.io/lime.github.com/quoteGenerator/)
+[Re-twitter or see new quote](https://lime5005.github.io/lime5005.github.com/quoteGenerator/)
 
 
 
