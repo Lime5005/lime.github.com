@@ -10,7 +10,7 @@
 [Chalets et Caviar](http://chaletsetcaviar.byethost17.com/)
 
 
-- A social network website I made using PHP Laravel and Vue.js, host on AWS:
+- A Social network Website I made using PHP Laravel and Vue.js, host on AWS:
 [My Hobbies](http://ec2-15-236-211-19.eu-west-3.compute.amazonaws.com/)
 
 ```markdown
