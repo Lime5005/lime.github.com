@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&family=Roboto+Slab&display=swap');
+body {
+    background-color: #ffffff;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Cpath fill='%2344eaea' fill-opacity='0.32' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'%3E%3C/path%3E%3C/svg%3E");
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 20px;
+}
+
+#container {
+    display: flex;
+}
+
+#title {
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    margin: 20px;
+}
+
+img {
+    width: 120px;
+    height: auto;
+    border: 0.2px solid rgb(112, 241, 235);
+    box-shadow: 3px 3px 3px rgb(130, 234, 238);
+    margin-right: 0;
+}
+
+#liseret {
+    width: 10%;
+    background-image: url(src/lodyas.png);
+    margin-right: 5%;
+    border-radius: 5px;
+}
+
+h2 {
+    color: #760001;
+    font-family: 'Roboto Slab', serif;
+}
+
+#content {
+    display: flex;
+}
+
+#content ul {
+    padding-left: 10px;
+}
+
+#content ul li {
+    text-align: start;
+}
+
+section {
+    margin-right: 40px;
+}
+
+#experience {
+    width: 40%;
+}
+
+#competence {
+    width: 25%;
+}
+
+@media screen and (max-width: 700px) {
+    img {
+        width: 80px;
+    }
+    #title {
+        margin: 30px;
+    }
+    #liseret {
+        display: none;
+    }
+    #content {
+        display: flex;
+        flex-direction: column;
+        margin-left: 30px;
+        width: auto;
+    }
+    section {
+        margin-right: 0;
+    }
+    #experience {
+        width: 100%;
+    }
+    #competence {
+        width: 100%;
+    }
+}
