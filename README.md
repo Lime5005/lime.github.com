@@ -13,20 +13,3 @@
 - A Social network Website I made using PHP Laravel and Vue.js, host on AWS, register/login to see more:
 [My Hobbies](http://ec2-15-236-211-19.eu-west-3.compute.amazonaws.com/)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
